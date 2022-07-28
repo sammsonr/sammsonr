@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammsonr&label=Profile%20views&color=0e75b6&style=flat" alt="sammsonr" /> </p>
 
-- 🔭 I’m currently working on **Up Down Dungeon RPG**
+- 🔭 I’m currently working on **Top Down Dungeon RPG**
 
 - 🌱 I’m currently learning **Unity**
 
